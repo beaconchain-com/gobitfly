@@ -12,6 +12,16 @@ We develop the explorer, dashboards, and APIs that validators, stakers, and deve
 
 ---
 
+## 📜 History
+
+The **gobitfly** organization was originally founded as part of **Bitfly GmbH** (later **bitfly explorer gmbh**), the Austrian company behind the beaconcha.in explorer. The projects under this organization quickly became essential infrastructure for the Ethereum staking ecosystem.
+
+In **2024**, the decision was made to separate the open‑source development from the original company. **Mahdi Amolimoghaddam**, a long‑time core contributor and the creator of the Beaconchain Dashboard, assumed leadership of the independent open‑source organization. Since then, all projects have been maintained and expanded independently, with a strong focus on community governance, transparency, and offline‑first architecture.
+
+Today, **gobitfly** operates as a fully independent open‑source initiative, unaffiliated with any commercial entity.
+
+---
+
 ## 🔗 Live services
 
 | Service | Domain | Status |
